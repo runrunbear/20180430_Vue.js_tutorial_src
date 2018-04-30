@@ -6,9 +6,11 @@
 
 
 >> 麦子学院 Vue.js 开发与起步 （31讲）
->> 播放列表链接：
->> https://www.youtube.com/playlist?list=PLwTxjmW4U1YTrZamK_JnrXlZIF6uVLOk2
+
+播放列表链接：
+https://www.youtube.com/playlist?list=PLwTxjmW4U1YTrZamK_JnrXlZIF6uVLOk2
 
 
 >> 课件和源码链接： 
->> https://github.com/runrunbear/20180430_Vue.js_tutorial_src
+
+https://github.com/runrunbear/20180430_Vue.js_tutorial_src
